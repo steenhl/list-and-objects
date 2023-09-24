@@ -83,7 +83,7 @@ function findMostExpensiveCar(cars) {
 
 //******  OPG 6 ***** */
 // Udfordring
-// ingen dybletter
+// ingen dubletter
 // Centrale elemnter løkker, betingelser, lister og objekter
 // allBrandsNoRepetitions(cars);
 function allBrandsNoRepetitions(cars) {
